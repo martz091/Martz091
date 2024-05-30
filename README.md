@@ -1,4 +1,4 @@
-Finals requirments
+Operations.java
 
 Overview: A modified version of the previeously given program that is based on basic Arithmatic Operation using java-based coding
 

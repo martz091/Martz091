@@ -6,7 +6,7 @@ import java.util.Scanner;
  * A calculator program that takes two numbers and an operation as input
  * and performs the specified operation.
  */
-public class FinalsRequirment {
+public class Operation {
 	 /**
      * The main method that runs the calculator program.
      * 
